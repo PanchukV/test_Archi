@@ -1,0 +1,8 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="сервис 1"
+    id="643f1da3-f511-4ada-a5d0-1c16758f9413">
+  <properties
+      key="id"
+      value="122"/>
+</archimate:BusinessService>
